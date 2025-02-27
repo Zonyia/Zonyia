@@ -7,6 +7,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://steamcommunity.com/id/errorunabletoresolve/"><img width="32px" alt="Steam" title="Steam" src="https://wahwah.me/img/steam.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/byeproduct0xff"><img width="32px" alt="Twitter" title="Twitter" src="https://wahwah.me/img/twitter.png"/></a>
+  <a href="https://bsky.app/profile/wahwah.me"><img width="32px" alt="Bluesky" title="Bluesky" src="https://wahwah.me/img/bluesky.png"/></a>
 </p>
 </div>
